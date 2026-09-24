@@ -1,11 +1,12 @@
 
 <!-- ═══════════════════ PURPLE PROFILE HEADER ═══════════════════ -->
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0933,50:6A0DAD,100:BF5FFF&height=230&section=header&text=Tejaswi%20Verma&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,30:5A189A,70:9D4EDD,100:E0AAFF&height=250&section=header&text=TEJASWI%20VERMA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&font=Orbitron&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20OPEN%20SOURCE&descSize=15&descAlignY=58&descColor=E0AAFF" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress;DSA+Learner;Open-Source+Contributor;Building+%7C+Learning+%7C+Debugging;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;OPEN+SOURCE+ENTHUSIAST;DSA+%7C+AI%2FML+LEARNER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG"/>
 
 <br/>
 
@@ -18,10 +19,6 @@
 <a href="https://github.com/tejaswiverma121-byte">
 <img src="https://img.shields.io/badge/GitHub-Follow-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=tejaswiverma121-byte&style=for-the-badge&color=9D4EDD&label=PROFILE+VISITORS"/>
 
 </div>
 
