@@ -83,26 +83,7 @@ Hey, I'm **Tejaswi Verma** — a B.Tech CSE (AI & ML) student from India 🇮�
 
 ---
 
-## 🎮 Contribution Game Zone
-
-### 🐍 The Contribution Snake
-
-Watch the snake eat my GitHub contributions!
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tejaswiverma121-byte/tejaswiverma121-byte/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
-
-</div>
-
-### 🌌 Contribution Galaxy
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiverma121-byte&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&area_color=6A0DAD&hide_border=true&custom_title=My%20Contribution%20Galaxy" width="100%" alt="Purple Contribution Graph"/>
-
-</div>
-
+.github/workflows/pacman.yml
 ---
 
 ## 🌱 Open Source Journey
