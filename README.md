@@ -2,11 +2,12 @@
 <!-- ═══════════════════ PURPLE PROFILE HEADER ═══════════════════ -->
 
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,30:5A189A,70:9D4EDD,100:E0AAFF&height=250&section=header&text=TEJASWI%20VERMA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&font=Orbitron&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20OPEN%20SOURCE&descSize=15&descAlignY=58&descColor=E0AAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,30:5A189A,70:9D4EDD,100:E0AAFF&height=250&section=header&text=TEJASWI%20VERMA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&font=Orbitron&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20OPEN%20SOURCE&descSize=15&descAlignY=58&descColor=E0AAFF" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;OPEN+SOURCE+ENTHUSIAST;DSA+%7C+AI%2FML+LEARNER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;OPEN+SOURCE+ENTHUSIAST;DSA+%7C+AI%2FML+LEARNER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing animation"/>
 
 <br/>
 
