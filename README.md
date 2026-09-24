@@ -63,7 +63,6 @@ Hey, I'm **Tejaswi Verma** — a B.Tech CSE (AI & ML) student from India 🇮�
 
 </div>
 
----
 
 ## 🔥 My GitHub Streak
 
@@ -73,11 +72,18 @@ Hey, I'm **Tejaswi Verma** — a B.Tech CSE (AI & ML) student from India 🇮�
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejaswiverma121-byte&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=E0AAFF&text_color=FFFFFF&ring_color=C77DFF&include_all_commits=true" width="70%" alt="GitHub Stats"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tejaswiverma121-byte&show_icons=true&theme=midnight-purple&hide_border=true" width="70%" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiverma121-byte&layout=compact&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=FFFFFF" width="50%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiverma121-byte&layout=compact&theme=midnight-purple&hide_border=true" width="50%" alt="Top Languages"/>
+
+</div>
 
 </div>
 
