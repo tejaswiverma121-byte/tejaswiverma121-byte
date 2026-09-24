@@ -1,74 +1,215 @@
-# 👋 Hey there, I'm Tejaswi Verma  
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;DSA+Learner;Open+Source+Enthusiast;Debugging+is+my+superpower" />
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
----
+<div align="center">
 
-## 💫 About Me:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=220&section=header&text=Tejaswi%20Verma&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-🚀 I’m a developer in progress, focused on building **real-world projects** and strengthening my core fundamentals  
-💡 I enjoy breaking down problems and understanding *how things actually work under the hood*  
-🧠 Currently diving deep into **Data Structures & Algorithms**, improving logic and problem-solving skills  
-🌐 Exploring **full-stack development** using Node.js, Express, and MongoDB  
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Real-World+Projects;Exploring+Full-Stack+Development;Learning+DSA+One+Problem+At+A+Time;Contributing+To+Open+Source;Always+Curious.+Always+Building." alt="Typing SVG"/>
+</a>
 
-🤝 Open to collaborating on **beginner-friendly open source projects**, especially in:
-- Web Development  
-- DSA-based solutions  
-- Backend fundamentals  
+<br/>
 
-🛠️ Actively working on:
-- Understanding large codebases  
-- Writing cleaner, scalable code  
-- Improving Git & GitHub workflows  
+<a href="https://github.com/tejaswiverma121-byte">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/tejaswi-verma-393736381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:tejaswiverma121@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💬 You can ask me about:
-- C++ & problem-solving  
-- JavaScript fundamentals  
-- Getting started with GitHub & open source  
+<img src="https://komarev.com/ghpvc/?username=tejaswiverma121-byte&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
-⚡ Fun fact:  
-> I genuinely enjoy debugging more than writing code — because that’s where the real learning happens.
+</div>
 
 ---
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-verma-393736381/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaswiverma121@gmail.com)
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+## 👨‍💻 About Me
+
+Hey! I'm **Tejaswi Verma**, a B.Tech Computer Science student specializing in AI & ML from India.
+
+I'm passionate about turning ideas into working software, understanding how things work under the hood, and learning by building real-world projects.
+
+```javascript
+const tejaswi = {
+    name: "Tejaswi Verma",
+    education: "B.Tech CSE (AI & ML)",
+    location: "India 🇮🇳",
+
+    interests: [
+        "Full-Stack Development",
+        "Open Source",
+        "Data Structures & Algorithms",
+        "AI & Computer Vision"
+    ],
+
+    currentlyLearning: [
+        "Advanced DSA",
+        "React & Backend Development",
+        "Open Source Workflows"
+    ],
+
+    currentFocus: "Building projects and contributing to open source",
+
+    funFact: "I enjoy debugging more than writing code!"
+};
+```
+
+- 🚀 Building real-world applications and improving my development skills.
+- 🧠 Practicing DSA and strengthening problem-solving fundamentals.
+- 🌐 Exploring full-stack development with JavaScript and the MERN stack.
+- 🤝 Exploring open-source projects and collaborating with developer communities.
+- 🔍 Interested in understanding large codebases, writing clean code, and learning from code reviews.
+
+> I believe the best way to learn software development is to build, break, debug, and build again.
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack & Tools
 
-### 🚀 Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Languages
 
-### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark" alt="C++, JavaScript, Python"/>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite&theme=dark" alt="HTML, CSS, Bootstrap, React, Vite"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="Git, GitHub, VS Code, Postman, Docker"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejaswiverma121-byte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com?user=tejaswiverma121-byte&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiverma121-byte&theme=tokyonight&hide_border=true&layout=compact)
+## 🚀 Featured Projects
+
+A few things I've been building and exploring.
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Library Management System
+
+A web application for managing books, members, and borrowing operations.
+
+**Highlights**
+- Book and member management
+- Borrowing and return functionality
+- Search and quantity tracking
+
+**Tech:** Node.js, Express, JavaScript
+
+<a href="https://github.com/tejaswiverma121-byte/Library-Management">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 💪 AI Fitness & Form Detection
+
+Exploring computer vision to provide real-time exercise form feedback.
+
+**Highlights**
+- Live camera preview
+- Body landmark detection
+- Exercise recognition exploration
+
+**Tech:** React Native / Mobile, MediaPipe Pose Landmarker
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/tejaswiverma121-byte?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_My_Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-## ✍️ Dev Thought:
-> “Code teaches. Bugs reveal. Debugging makes you a developer.”
+## 🌱 Open Source Journey
+
+I'm actively exploring open source and learning how real-world projects are built and maintained.
+
+- 🔎 Exploring codebases and identifying beginner-friendly issues.
+- 🔧 Working on contributions, pull requests, and code reviews.
+- 💬 Learning from maintainers and collaborating with developer communities.
+- 🌟 Interested in contributing to JavaScript, web development, and developer tools.
+
+**Currently exploring:** Meshery and the wider cloud-native ecosystem.
+
+<a href="https://github.com/meshery/meshery">
+  <img src="https://img.shields.io/badge/Meshery-Open_Source_Community-00B39F?style=for-the-badge&logo=meshery&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tejaswiverma121-byte?tab=contributions">
+  <img src="https://img.shields.io/badge/My_Contributions-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tejaswiverma121-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiverma121-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=tejaswiverma121-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiverma121-byte&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always happy to connect with developers, open-source contributors, and people who enjoy building things together.
+
+Whether it's discussing a project, exploring an open-source contribution, or sharing ideas, feel free to reach out!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tejaswi-verma-393736381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:tejaswiverma121@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop_Me_A_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/tejaswiverma121-byte">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💭 Developer Philosophy
+
+*"Code teaches. Bugs reveal. Debugging makes you a developer."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+
+</div>
