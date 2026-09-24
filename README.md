@@ -83,7 +83,14 @@ Hey, I'm **Tejaswi Verma** — a B.Tech CSE (AI & ML) student from India 🇮�
 
 ---
 
-.github/workflows/pacman.yml
+
+## 🎮 Contribution Arcade
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tejaswiverma121-byte/tejaswiverma121-byte/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Game"/>
+
+</div>
 ---
 
 ## 🌱 Open Source Journey
