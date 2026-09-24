@@ -72,19 +72,6 @@ Hey, I'm **Tejaswi Verma** — a B.Tech CSE (AI & ML) student from India 🇮�
 
 <br/><br/>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tejaswiverma121-byte&show_icons=true&theme=midnight-purple&hide_border=true" width="70%" alt="GitHub Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiverma121-byte&layout=compact&theme=midnight-purple&hide_border=true" width="50%" alt="Top Languages"/>
-
-</div>
-
 </div>
 
 ---
@@ -113,16 +100,6 @@ I enjoy learning from real-world codebases and collaborating with developers acr
 <img src="https://img.shields.io/badge/BUILD-7B2CBF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LEARN-9D4EDD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CONTRIBUTE-C77DFF?style=for-the-badge&logoColor=black"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tejaswiverma121-byte&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
