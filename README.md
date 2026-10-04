@@ -1,4 +1,6 @@
-<!-- ═══════════════════════ PURPLE PROFILE HEADER ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TEJASWI VERMA PROFILE                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -28,8 +30,6 @@
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-
 ## 💜 About Me
 
 Hey! I'm **Tejaswi Verma** — a B.Tech CSE (AI & ML) student from India 🇮🇳
@@ -42,12 +42,11 @@ I'm a developer in progress who enjoys building real-world projects, solving pro
 - 🌱 Exploring **Open Source** and learning from real-world codebases.
 - 🔍 Interested in understanding how software works behind the scenes.
 - 🤝 Open to beginner-friendly open-source collaboration.
+- 🐛 I enjoy debugging more than writing code!
 
 > 💭 I don't just want to write code. I want to understand it, break it, debug it, and make it better.
 
 ---
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 ## ⚡ Tech Stack
 
@@ -79,39 +78,33 @@ I'm a developer in progress who enjoys building real-world projects, solving pro
 
 ---
 
-<!-- ═══════════════════════ GITHUB STREAK ═══════════════════════ -->
-
-## 🔥 GitHub Contribution Streak
+# 🔥 GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=tejaswiverma121-byte&theme=midnight-purple&hide_border=true&background=0D0221&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" width="75%" alt="GitHub Contribution Streak"/>
 
-<br/><br/>
-
 </div>
 
-> 🔥 **Your streak is calculated automatically from your GitHub contribution activity.**
+<br/>
+
+> 🔥 **Streak:** calculated automatically from your GitHub contribution activity.
 
 ---
-
-<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
 
 ## 📅 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiverma121-byte&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&area_color=6A0DAD&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiverma121-byte&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&area_color=6A0DAD&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ CONTRIBUTION GAME ═══════════════════════ -->
+# 🎮 Contribution Arcade
 
-## 🎮 Contribution Arcade
-
-### 👾 Pac-Man Eats My Contributions
+## 👾 Pac-Man Eats My Contributions
 
 <div align="center">
 
@@ -131,8 +124,6 @@ I'm a developer in progress who enjoys building real-world projects, solving pro
 </div>
 
 ---
-
-<!-- ═══════════════════════ OPEN SOURCE ═══════════════════════ -->
 
 ## 🌱 Open Source Journey
 
@@ -155,8 +146,6 @@ I'm actively learning how real-world open-source projects are built, maintained,
 
 ---
 
-<!-- ═══════════════════════ DEVELOPER PHILOSOPHY ═══════════════════════ -->
-
 ## 💭 Developer Philosophy
 
 <div align="center">
@@ -178,8 +167,6 @@ I'm actively learning how real-world open-source projects are built, maintained,
 </div>
 
 ---
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
 
