@@ -1,4 +1,4 @@
-```html
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--          TEJASWI VERMA | GIYU TOMIOKA WATER BREATHING          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -196,4 +196,3 @@ Every contribution is another training session.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:075985,100:020617&height=160&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-```
