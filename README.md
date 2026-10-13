@@ -1,54 +1,79 @@
+```html
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TEJASWI VERMA PROFILE                       -->
+<!--          TEJASWI VERMA | GIYU TOMIOKA WATER BREATHING          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,30:5A189A,70:9D4EDD,100:E0AAFF&height=250&section=header&text=TEJASWI%20VERMA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&font=Orbitron&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20OPEN%20SOURCE&descSize=15&descAlignY=58&descColor=E0AAFF" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;OPEN+SOURCE+ENTHUSIAST;DSA+%7C+AI%2FML+LEARNER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing Animation"/>
+<!-- GIYU TOMIOKA ANIME BANNER -->
+<img src="./assets/giyu-banner.png"
+     width="100%"
+     alt="Giyu Tomioka — Water Breathing"/>
 
 <br/>
 
+<!-- ANIMATED NAME -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=TEJASWI+VERMA;WATER+BREATHING+%7C+CODE+BREATHING;FULL+STACK+DEVELOPER;DEBUG.+LEARN.+REPEAT." 
+     alt="Animated name and developer tagline"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/水の呼吸-WATER%20BREATHING-0284C7?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-ENTHUSIAST-0EA5E9?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/STATUS-LEVELING%20UP-38BDF8?style=for-the-badge&labelColor=020617"/>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/tejaswi-verma-393736381/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:tejaswiverma121@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/tejaswiverma121-byte">
-<img src="https://img.shields.io/badge/GitHub-Follow-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-075985?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=tejaswiverma121-byte&style=for-the-badge&color=9D4EDD&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=tejaswiverma121-byte&style=for-the-badge&color=0284C7&label=VISITORS"/>
 
 </div>
 
 ---
 
-## 💜 About Me
+<!-- WATER BREATHING DIVIDER -->
 
-Hey! I'm **Tejaswi Verma** — a B.Tech CSE (AI & ML) student from India 🇮🇳
+<div align="center">
 
-I'm a developer in progress who enjoys building real-world projects, solving problems, and understanding how things work under the hood.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:38BDF8&height=4&section=header" width="90%"/>
 
-- 🚀 Building real-world applications and turning ideas into working software.
-- 🧠 Practicing **Data Structures & Algorithms** and strengthening problem-solving skills.
-- 🌐 Exploring **Full-Stack Development** with JavaScript, React, Node.js, Express, and MongoDB.
-- 🌱 Exploring **Open Source** and learning from real-world codebases.
-- 🔍 Interested in understanding how software works behind the scenes.
+</div>
+
+## 🌊 About Me
+
+Hey! I'm **Tejaswi Verma**, a B.Tech CSE student specializing in AI & ML from India 🇮🇳
+
+Like Giyu's calm precision, I believe in understanding problems deeply, writing cleaner code, and staying consistent when things get difficult.
+
+- ⚔️ Practicing Data Structures & Algorithms.
+- 🌊 Building real-world applications with JavaScript and modern web technologies.
+- 🧩 Exploring React, Node.js, Express, and MongoDB.
+- 🌱 Learning how large open-source projects work.
+- 🐛 Debugging, breaking things, and figuring out how to fix them.
 - 🤝 Open to beginner-friendly open-source collaboration.
-- 🐛 I enjoy debugging more than writing code!
 
-> 💭 I don't just want to write code. I want to understand it, break it, debug it, and make it better.
+> *"Set your heart ablaze. Keep your code flowing."*
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=17&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=750&lines=FIRST+UNDERSTAND.;THEN+BUILD.;WHEN+IT+BREAKS%2C+DEBUG.;NEVER+STOP+LEVELING+UP." alt="Water Breathing developer mindset"/>
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## ⚔️ My Developer Arsenal
 
 <div align="center">
 
@@ -64,7 +89,7 @@ I'm a developer in progress who enjoys building real-world projects, solving pro
 
 <br/><br/>
 
-### ⚙️ Backend & Database
+### 🌊 Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 
@@ -78,48 +103,46 @@ I'm a developer in progress who enjoys building real-world projects, solving pro
 
 ---
 
-# 🔥 GitHub Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tejaswiverma121-byte&theme=midnight-purple&hide_border=true&background=0D0221&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" width="75%" alt="GitHub Contribution Streak"/>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=tejaswiverma121-byte&theme=transparent&hide_border=true&background=02061700&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=7DD3FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="80%" alt="GitHub contribution streak"/>
 
 <br/>
 
-> 🔥 **Streak:** calculated automatically from your GitHub contribution activity.
+<img src="https://img.shields.io/badge/CONSISTENCY-TRAIN%20EVERY%20DAY-0284C7?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+> The streak card is generated by an external service. Its refresh timing may differ from GitHub's contribution calendar.
 
 ---
 
-## 📅 Contribution Activity
+## 🌌 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiverma121-byte&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&area_color=6A0DAD&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiverma121-byte&bg_color=020617&color=7DD3FC&line=0284C7&point=E0F2FE&area=true&area_color=075985&hide_border=true&custom_title=MY%20WATER%20BREATHING%20%7C%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
 ---
 
-# 🎮 Contribution Arcade
+## 🎮 Water Breathing Arcade
 
-## 👾 Pac-Man Eats My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tejaswiverma121-byte/tejaswiverma121-byte/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Game"/>
-
-</div>
-
-<br/>
+### 👾 Pac-Man Contribution Game
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTRIBUTE-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILD-9D4EDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEBUG-C77DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REPEAT-E0AAFF?style=for-the-badge&logoColor=black"/>
+<img src="https://raw.githubusercontent.com/tejaswiverma121-byte/tejaswiverma121-byte/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/01-TRAIN-075985?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-CODE-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-DEBUG-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-REPEAT-38BDF8?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
@@ -127,42 +150,42 @@ I'm a developer in progress who enjoys building real-world projects, solving pro
 
 ## 🌱 Open Source Journey
 
-I'm actively learning how real-world open-source projects are built, maintained, and improved.
+Every contribution is another training session.
 
 - 🔎 Exploring issues and understanding project architecture.
-- 💻 Improving my Git and GitHub workflow.
-- 🔧 Learning how to create meaningful pull requests.
-- 🤝 Learning through code reviews and collaboration.
-- 🌟 Interested in JavaScript, Web Development, DSA, and Developer Tools.
+- 💻 Improving Git and GitHub workflows.
+- 🔧 Learning to create useful pull requests.
+- 🤝 Learning from code reviews and community feedback.
+- 🌟 Exploring web development, developer tools, and DSA.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BUILD-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARN-9D4EDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CONTRIBUTE-C77DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GROW-E0AAFF?style=for-the-badge&logoColor=black"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=17&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=FIND+THE+PROBLEM;UNDERSTAND+THE+CODE;MAKE+A+MEANINGFUL+CONTRIBUTION;GROW+WITH+THE+COMMUNITY" alt="Open source journey animation"/>
 
 </div>
 
 ---
 
-## 💭 Developer Philosophy
+## 💠 Developer Philosophy
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=C77DFF&aColor=E0AAFF&borderColor=7B2CBF" alt="Random Developer Joke"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=7DD3FC&aColor=E0F2FE&borderColor=0284C7" alt="Random programming joke"/>
 
 <br/><br/>
 
-### 💜 Keep Building. Keep Learning. Keep Contributing.
+### 🌊 Stay Calm. Think Clearly. Keep Building.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:38BDF8&height=2&section=header" width="75%"/>
 
 <br/>
 
-> **"Code teaches. Bugs reveal. Debugging makes you a developer."**
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=750&lines=BUILD+WITH+PRECISION;DEBUG+WITHOUT+FEAR;LEARN+WITH+PATIENCE;CONTRIBUTE+WITH+PURPOSE" alt="Developer philosophy animation"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+LEARN;KEEP+PUSHING+CODE;KEEP+PUSHING+YOURSELF" alt="Developer Philosophy"/>
+<img src="https://img.shields.io/badge/WATER%20BREATHING-FIRST%20FORM-075985?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CODE%20BREATHING-INFINITE%20LEARNING-0284C7?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
@@ -170,6 +193,7 @@ I'm actively learning how real-world open-source projects are built, maintained,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF5FFF,50:6A0DAD,100:10002B&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:075985,100:020617&height=160&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+```
