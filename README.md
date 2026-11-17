@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--       TEJASWI VERMA | GIYU TOMIOKA — WATER BREATHING            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -72,10 +71,30 @@ Inspired by Giyu Tomioka's calm precision, I believe in understanding problems d
 </div>
 
 ---
+
 ## 🏆 Open Source Achievements
 
-\<p align="center">   \<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=certified-meshery-contributor](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges\&badge=certified-meshery-contributor)">     \<img src="[https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png](https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png)"          alt="Certified Meshery Contributor"          width="130" />   \</a>   &nbsp;&nbsp;&nbsp;   \<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=first-design](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges\&badge=first-design)">     \<img src="[https://badges.layer5.io/assets/badges/first-design/first-design.png](https://badges.layer5.io/assets/badges/first-design/first-design.png)"          alt="First Design"          width="130" />   \</a> \</p>
+<div align="center">
 
+<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=certified-meshery-contributor">
+  <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png"
+       alt="Certified Meshery Contributor"
+       width="130"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=first-design">
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+       alt="First Design"
+       width="130"/>
+</a>
+
+<br/>
+
+<sub>Certified Meshery Contributor · First Design</sub>
+
+</div>
+
+---
 
 ## ⚔️ My Developer Arsenal
 
