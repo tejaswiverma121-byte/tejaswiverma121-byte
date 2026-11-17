@@ -72,27 +72,49 @@ Inspired by Giyu Tomioka's calm precision, I believe in understanding problems d
 
 ---
 
-## 🏆 Open Source Achievements
+## 🏅 Layer5 Achievements
 
-<div align="center">
+\<div align="center">
 
-<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=certified-meshery-contributor">
-  <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png"
-       alt="Certified Meshery Contributor"
-       width="130"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=first-design">
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
-       alt="First Design"
-       width="130"/>
-</a>
+\<p>   \<sub>RECOGNITION • CONTRIBUTION • OPEN SOURCE\</sub> \</p>
 
-<br/>
+\<table> \<tr> \<td align="center" width="50%">
 
-<sub>Certified Meshery Contributor · First Design</sub>
+\<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=first-design](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges\&badge=first-design)"> \<img src="[https://badges.layer5.io/assets/badges/first-design/first-design.png](https://badges.layer5.io/assets/badges/first-design/first-design.png)"      width="190"      alt="Layer5 First Design Badge"/> \</a>
 
-</div>
+\<br/>
+
+### 🏆 First Design
+
+\<sub>Layer5 Design Pioneer\</sub>
+
+\</td>
+
+\<td align="center" width="50%">
+
+\<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=certified-meshery-contributor](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges\&badge=certified-meshery-contributor)">
+\<img src="[https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png](https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png)"
+&#x20;    width="190"
+&#x20;    alt="Certified Meshery Contributor Badge"/>
+\</a>
+
+\<br/>
+
+### 🌟 Certified Meshery Contributor
+
+\<sub>Meshery Open Source Contributor\</sub>
+
+\</td>
+\</tr>
+\</table>
+
+\<br/>
+
+\<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges)">
+\<img src="[https://img.shields.io/badge/VIEW%20ALL%20ACHIEVEMENTS-LAYER5-00BFA5?style=for-the-badge&logo=layer5&logoColor=white](https://img.shields.io/badge/VIEW%20ALL%20ACHIEVEMENTS-LAYER5-00BFA5?style=for-the-badge\&logo=layer5\&logoColor=white)"/>
+\</a>
+
+\</div>
 
 ---
 
