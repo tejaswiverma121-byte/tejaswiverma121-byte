@@ -43,9 +43,7 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:075985,100:38BDF8&height=4&section=header" width="90%"/>
-
 </div>
 
 ## 🌊 About Me
@@ -74,47 +72,72 @@ Inspired by Giyu Tomioka's calm precision, I believe in understanding problems d
 
 ## 🏅 Layer5 Achievements
 
-\<div align="center">
+<div align="center">
 
-\<p>   \<sub>RECOGNITION • CONTRIBUTION • OPEN SOURCE\</sub> \</p>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-ACHIEVEMENTS-00BFA5?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LAYER5-MESHERY%20ECOSYSTEM-14B8A6?style=for-the-badge&labelColor=020617"/>
 
-\<table> \<tr> \<td align="center" width="50%">
+<br/><br/>
 
-\<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=first-design](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges\&badge=first-design)"> \<img src="[https://badges.layer5.io/assets/badges/first-design/first-design.png](https://badges.layer5.io/assets/badges/first-design/first-design.png)"      width="190"      alt="Layer5 First Design Badge"/> \</a>
+<table>
+<tr>
+<td align="center" width="50%">
 
-\<br/>
+<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=first-design">
+<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+     width="190"
+     alt="Layer5 First Design Badge"/>
+</a>
 
-### 🏆 First Design
+<br/>
 
-\<sub>Layer5 Design Pioneer\</sub>
+<h3>🏆 First Design</h3>
 
-\</td>
+<sub>Layer5 Design Pioneer</sub>
 
-\<td align="center" width="50%">
+<br/><br/>
 
-\<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=certified-meshery-contributor](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges\&badge=certified-meshery-contributor)">
-\<img src="[https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png](https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png)"
-&#x20;    width="190"
-&#x20;    alt="Certified Meshery Contributor Badge"/>
-\</a>
+<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=first-design">
+<img src="https://img.shields.io/badge/VIEW%20ACHIEVEMENT-00BFA5?style=flat-square&labelColor=020617"/>
+</a>
 
-\<br/>
+</td>
 
-### 🌟 Certified Meshery Contributor
+<td align="center" width="50%">
 
-\<sub>Meshery Open Source Contributor\</sub>
+<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=certified-meshery-contributor">
+<img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png"
+     width="190"
+     alt="Certified Meshery Contributor Badge"/>
+</a>
 
-\</td>
-\</tr>
-\</table>
+<br/>
 
-\<br/>
+<h3>🌟 Certified Meshery Contributor</h3>
 
-\<a href="[https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges](https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges)">
-\<img src="[https://img.shields.io/badge/VIEW%20ALL%20ACHIEVEMENTS-LAYER5-00BFA5?style=for-the-badge&logo=layer5&logoColor=white](https://img.shields.io/badge/VIEW%20ALL%20ACHIEVEMENTS-LAYER5-00BFA5?style=for-the-badge\&logo=layer5\&logoColor=white)"/>
-\</a>
+<sub>Meshery Open Source Contributor</sub>
 
-\</div>
+<br/><br/>
+
+<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges&badge=certified-meshery-contributor">
+<img src="https://img.shields.io/badge/VIEW%20ACHIEVEMENT-00BFA5?style=flat-square&labelColor=020617"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://cloud.layer5.io/user/36710bb3-5fe8-4d64-ac32-d148fa8f99fb?tab=badges">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20MY%20LAYER5%20BADGES-00BFA5?style=for-the-badge&logo=layer5&logoColor=white&labelColor=020617"/>
+</a>
+
+<br/><br/>
+
+<sub>Recognizing contribution, creativity, and continuous learning in open source.</sub>
+
+</div>
 
 ---
 
